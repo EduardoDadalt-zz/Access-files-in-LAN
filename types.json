@@ -1,0 +1,5 @@
+{
+  "text": [".js", ".json", ".txt", ".html", ".css"],
+  "video": [".mp4", ".mkv"],
+  "music": [".mp3", ".ogg"]
+}
